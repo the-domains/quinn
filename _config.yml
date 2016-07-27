@@ -1,4 +1,3 @@
-layout_spectrum: 0.5658053536899388
 typography_spectrum: 0.4134922935627401
 color:
   brandStrength: 0.24813803704455495
@@ -11,8 +10,10 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.5658053536899388
 name: Curly Queen
 navigation:
   - id: 8bb6d240-ebb8-4213-9fe2-75238b8b6449
     name: ABOUT QUINN
     type: content
+title: Curl Queen
