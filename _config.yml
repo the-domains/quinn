@@ -19,5 +19,8 @@ navigation:
   - url: 'https://www.schedulicity.com/scheduling/QBHTL6'
     name: 'Make an Appointment '
     type: external
+  - url: 'https://www.instagram.com/curl_whisperer/'
+    name: Follow Me on Instagram
+    type: external
 title: Curl Queen
 description: "\_Hello, I do hair."
