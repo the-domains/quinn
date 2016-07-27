@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-27T03:30:26.365Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c6261c0-a5ee-4913-9aa9-e7a53ec158a7.jpg
+datePublished: '2016-07-27T03:30:48.398Z'
 author: []
 via: {}
-dateModified: '2016-07-27T03:29:49.283Z'
+dateModified: '2016-07-27T03:30:47.932Z'
 title: ABOUT QUINN
 publisher: {}
 description: >-
@@ -24,11 +22,10 @@ description: >-
   stylists in the North Bay area to specialize in curly hair cutting and
   coloring. However, certified with Coppola’s Keratin Complex Smoothing, Quinn
   can rid your hair of frizz and curls while adding shine health.
-starred: false
 sourcePath: _posts/2016-07-27-about-quinn.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: about-quinn/index.html
 _type: MediaObject
 
 ---
