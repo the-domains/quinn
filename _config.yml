@@ -6,9 +6,9 @@ color:
   saturation: 0.12938226317055523
   rhythmicContrast: 0.9213613807223737
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: Quinn
