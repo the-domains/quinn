@@ -1,5 +1,4 @@
 typography_spectrum: 0.4134922935627401
-style: the-composer
 color:
   brandStrength: 0.24813803704455495
   lightness: 0.7745024485047907
@@ -15,7 +14,7 @@ layout_spectrum: 0.5658053536899388
 name: Curl Queen
 navigation:
   - id: 8bb6d240-ebb8-4213-9fe2-75238b8b6449
-    name: ABOUT QUINN
+    name: ABOUT Quinn
     type: content
   - url: 'https://www.schedulicity.com/scheduling/QBHTL6'
     name: 'Make an Appointment '
