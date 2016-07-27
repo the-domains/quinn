@@ -11,10 +11,10 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 layout_spectrum: 0.5658053536899388
-name: Curly Queen
+name: Curl Queen
 navigation:
   - id: 8bb6d240-ebb8-4213-9fe2-75238b8b6449
     name: ABOUT QUINN
     type: content
 title: Curl Queen
-style: the-composer
+description: "\_Hello, I do hair."
