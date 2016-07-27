@@ -16,6 +16,8 @@ navigation:
   - id: 8bb6d240-ebb8-4213-9fe2-75238b8b6449
     name: ABOUT QUINN
     type: content
+  - url: 'https://www.schedulicity.com/scheduling/QBHTL6'
+    name: 'Make an Appointment '
+    type: external
 title: Curl Queen
 description: "\_Hello, I do hair."
-style: the-composer
