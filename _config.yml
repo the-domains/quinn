@@ -1,5 +1,4 @@
 typography_spectrum: 0.4134922935627401
-style: the-composer
 color:
   brandStrength: 0.24813803704455495
   lightness: 0.7745024485047907
@@ -11,7 +10,12 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3b85c03-7da6-4839-9549-c074a51b3038.png
 layout_spectrum: 0.5658053536899388
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/10864d92-e156-4bdc-9d83-12109521ceba.png
 name: Curl Queen
 navigation:
   - id: 8bb6d240-ebb8-4213-9fe2-75238b8b6449
@@ -23,5 +27,7 @@ navigation:
   - url: 'https://www.instagram.com/curl_whisperer/'
     name: Follow Me on Instagram
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/357d3dbf-2b34-400b-baf9-d0ff12a72009.png
 title: Curl Queen
 description: "\_Hello, I do hair."
