@@ -1,19 +1,25 @@
 ---
-datePublished: '2016-07-27T22:33:53.118Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1db0f60-3703-474a-a9bb-e6c1e8cd0562.jpg
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-07-27T22:34:53.034Z'
+dateModified: '2016-07-27T22:34:47.030Z'
 author: []
 via: {}
-dateModified: '2016-07-27T22:33:34.155Z'
 title: 5 Curl Tips You need to Know
-publisher: {}
-description: ''
-starred: false
 sourcePath: _posts/2016-07-27-5-curl-tips-you-need-to-know.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: 5-curl-tips-you-need-to-know/index.html
+_type: Article
 
 ---
 # **5 Curl Tips You need to Know**
