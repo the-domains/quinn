@@ -1,23 +1,11 @@
+name: Curl Queen
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba5091f1-2a1f-4ac0-a924-60b4dbda5c6d.png
+layout_spectrum: 0.94515
 typography_spectrum: 0.4134922935627401
 style: the-composer
-color:
-  brandStrength: 0.24813803704455495
-  lightness: 0.7745024485047907
-  saturation: 0.12938226317055523
-  rhythmicContrast: 0.9213613807223737
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0063f32e-913e-40ac-b967-5e16bd7633ee.png
-layout_spectrum: 0.5658053536899388
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6840013-e37f-41d5-b78e-eee8b6f1823a.png
-name: Curl Queen
 navigation:
   - id: 8bb6d240-ebb8-4213-9fe2-75238b8b6449
     name: About Quinn
@@ -28,7 +16,30 @@ navigation:
   - url: 'https://www.instagram.com/curl_whisperer/'
     name: Follow Me on Instagram
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba5091f1-2a1f-4ac0-a924-60b4dbda5c6d.png
 title: Curl Queen
 description: "\_Hello, I do hair."
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0063f32e-913e-40ac-b967-5e16bd7633ee.png
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.24813803704455495
+  lightness: 0.7745024485047907
+  saturation: 0.12938226317055523
+  rhythmicContrast: 0.9213613807223737
+purpose: []
