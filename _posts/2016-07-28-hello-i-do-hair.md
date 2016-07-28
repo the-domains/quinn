@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-28T05:40:00.063Z'
+datePublished: '2016-07-28T05:40:32.356Z'
 sourcePath: _posts/2016-07-28-hello-i-do-hair.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-28T05:39:59.400Z'
+dateModified: '2016-07-28T05:40:02.510Z'
 title: 'HELLO, I DO HAIR.'
 publisher: {}
 description: ''
@@ -20,7 +20,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/115b1a3163c0dbe2163d14861d1ab777db2b1aaf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e362efd1-1789-4b91-9821-9f349215a85e.gif)
 
 # HELLO, I DO HAIR.
 
