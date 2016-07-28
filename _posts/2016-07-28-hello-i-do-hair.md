@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-28T04:57:31.603Z'
+datePublished: '2016-07-28T04:58:45.854Z'
 sourcePath: _posts/2016-07-28-hello-i-do-hair.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,10 +9,10 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-28T04:57:31.025Z'
+dateModified: '2016-07-28T04:58:45.255Z'
 title: 'HELLO, I DO HAIR.'
 publisher: {}
-description: Cut. Color. Curly.
+description: ''
 inLanguage: null
 inNav: false
 starred: true
@@ -20,7 +20,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-## HELLO, I DO HAIR.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/115b1a3163c0dbe2163d14861d1ab777db2b1aaf.jpg)
 
-Cut. Color. Curly.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57a7bf180b1e0e5bfde832977252b1bb/croprotate.jpg?cropheight=2999&cropwidth=4376&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb9217204a67fa0969d3946ad0638622b900b6b0b.jpg&x=0&y=0)
+# HELLO, I DO HAIR.
+
+### _Cut. Color. Curly._
