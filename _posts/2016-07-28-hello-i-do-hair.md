@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-28T05:51:54.275Z'
+datePublished: '2016-07-28T05:53:49.841Z'
 sourcePath: _posts/2016-07-28-hello-i-do-hair.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,10 +9,10 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-28T05:51:53.687Z'
+dateModified: '2016-07-28T05:53:44.606Z'
 title: 'HELLO, I DO HAIR.'
 publisher: {}
-description: ''
+description: 'Changing lives, one curl at a time.'
 inLanguage: null
 inNav: false
 starred: true
@@ -24,4 +24,4 @@ _type: Article
 
 # HELLO, I DO HAIR.
 
-### _Changing lives, one curl at a time._
+Changing lives, one curl at a time.
