@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-28T05:40:32.356Z'
+datePublished: '2016-07-28T05:51:54.275Z'
 sourcePath: _posts/2016-07-28-hello-i-do-hair.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-28T05:40:02.510Z'
+dateModified: '2016-07-28T05:51:53.687Z'
 title: 'HELLO, I DO HAIR.'
 publisher: {}
 description: ''
@@ -20,8 +20,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e362efd1-1789-4b91-9821-9f349215a85e.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5a6042c-bfbb-4ae4-a808-cdfcdc04413e.gif)
 
 # HELLO, I DO HAIR.
 
-### _Cut. Color. Curly._
+### _Changing lives, one curl at a time._
