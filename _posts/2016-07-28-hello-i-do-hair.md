@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-28T04:58:45.854Z'
+datePublished: '2016-07-28T05:40:00.063Z'
 sourcePath: _posts/2016-07-28-hello-i-do-hair.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-28T04:58:45.255Z'
+dateModified: '2016-07-28T05:39:59.400Z'
 title: 'HELLO, I DO HAIR.'
 publisher: {}
 description: ''
