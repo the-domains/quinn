@@ -4,7 +4,7 @@
         <description><![CDATA[Curl Queen]]></description>
         <link>http://curlqueen.salon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 05:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 05:59:19 GMT</lastBuildDate>
         <atom:link href="http://curlqueen.salon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HELLO, I DO HAIR.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/29cea911-b229-4b0a-83b7-a9357700d7f0.jpg</link>
             <guid isPermaLink="false">c92b030c-2d8b-451c-8214-0d115bfb02ac</guid>
             <pubDate>Thu, 28 Jul 2016 05:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/888a6b1c-1316-4a82-ad5b-d09daea46b60.jpg">]]></description>
+            <link>http://curlqueen.salon/15016385-419c-473f-89d1-af560b48d349/index.html</link>
+            <guid isPermaLink="false">15016385-419c-473f-89d1-af560b48d349</guid>
+            <pubDate>Thu, 28 Jul 2016 05:58:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DevaCurl: Learn the Looks - The Beautiful Mess]]></title>
