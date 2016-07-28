@@ -1,17 +1,17 @@
 ---
-description: ''
-dateModified: '2016-07-27T23:35:59.051Z'
-datePublished: '2016-07-27T23:36:04.820Z'
-title: “Quinn is the unicorn of hair stylists!”- Jessica W.
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-07-28T00:21:53.351Z'
 sourcePath: _posts/2016-07-27-quinn-is-the-unicorn-of-hair-stylists-jessica-w.md
+author: []
+via: {}
+dateModified: '2016-07-28T00:21:52.480Z'
+title: “Quinn is the unicorn of hair stylists!”- Jessica W.
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# _**"Quinn**_****is the unicorn of hair stylists!"- Jessica W.
+# _**"Quinn **_is the unicorn of hair stylists!"- Jessica W.
