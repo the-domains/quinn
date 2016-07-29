@@ -1,10 +1,32 @@
-name: Curl Queen
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d5f55cf-83f3-4a49-89f8-960483c284df.png
-layout_spectrum: 0.6950472278986126
-typography_spectrum: 0.7785191340371966
+typography_spectrum: 1
+color:
+  brandColors:
+    - '#3b3555'
+    - '#b08791'
+    - '#f1bac8'
+    - '#704b3a'
+    - '#321b14'
+  brandStrength: 0.24813803704455495
+  lightness: 0.7745024485047907
+  saturation: 0.12938226317055523
+  rhythmicContrast: 0.9213613807223737
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/219f1ea6-8883-4b8d-9359-e32461c93298.png
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-50607580-7
+  facebook: null
+  twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a441e672-4591-407e-a071-b5d70cb81a11.png
+name: Curl Queen
+cta:
+  domain: null
+  bucket: null
+  version: null
 style: the-composer
 navigation:
   - name: About Quinn
@@ -19,30 +41,8 @@ navigation:
   - name: Portfolio
     id: ff2ce318-7647-400e-99c7-ab78b7bfa359
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d5f55cf-83f3-4a49-89f8-960483c284df.png
 title: Curl Queen
 description: "\_Hello, I do hair."
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/219f1ea6-8883-4b8d-9359-e32461c93298.png
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#3b3555'
-    - '#b08791'
-    - '#f1bac8'
-    - '#704b3a'
-    - '#321b14'
-  brandStrength: 0.24813803704455495
-  lightness: 0.7745024485047907
-  saturation: 0.12938226317055523
-  rhythmicContrast: 0.9213613807223737
 purpose: []
