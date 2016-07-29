@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-07-29T19:33:05.632Z'
+datePublished: '2016-07-29T19:36:23.886Z'
 sourcePath: _posts/2016-07-29-wtf-is-no-poo.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/761ed0a3-9759-417b-ab8b-23ac3ca0470d.gif
-author: []
+author:
+  - {}
 via: {}
-dateModified: '2016-07-29T19:33:00.833Z'
+dateModified: '2016-07-29T19:36:23.341Z'
 title: WTF is No-Poo?
 publisher:
-  name: Deva Curl
+  name: Quinn Bishop
 description: ''
 starred: false
 inFeed: true
@@ -17,7 +18,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a963dfcb-826c-454d-8c79-9f8153385031.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a54d2c7ed0a562ea4c48679364d3bce/croprotate.jpg?cropheight=3484&cropwidth=3744&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa963dfcb-826c-454d-8c79-9f8153385031.jpg&x=0&y=0)
 
 # **WTF is No-Poo?**
 
