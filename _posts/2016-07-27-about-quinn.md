@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-29T00:09:50.348Z'
+datePublished: '2016-07-29T00:12:13.958Z'
 sourcePath: _posts/2016-07-27-about-quinn.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-29T00:09:49.786Z'
+dateModified: '2016-07-29T00:12:13.209Z'
 title: About Quinn
 publisher: {}
 description: ''
@@ -17,8 +17,9 @@ _type: MediaObject
 
 # About Quinn
 
-Hey, curly girl! I am so excited that you have found your way here! A  
-little about me.... I have been a hairstylist for the last 12 years. I grew up  
+### Hey, curly girl! I am so excited that you have found your way here! 
+
+A little about me.... I have been a hairstylist for the last 12 years. I grew up  
 in the salon business, and my mom is a hairstylist; my grandmother was a hairstylist and my great-grandfather was a barber. You could say it's in  
 my blood. I am very proud to be continuing the tradition of service. I  
 believe that hairstylists have the greatest influence in the world.  
