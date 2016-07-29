@@ -38,6 +38,9 @@ navigation:
   - name: Follow Me on Instagram
     url: 'https://www.instagram.com/curl_whisperer/'
     type: external
+  - name: Portfolio
+    id: ff2ce318-7647-400e-99c7-ab78b7bfa359
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d5f55cf-83f3-4a49-89f8-960483c284df.png
 title: Curl Queen
