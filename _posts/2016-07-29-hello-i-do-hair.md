@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-29T16:36:20.987Z'
+datePublished: '2016-07-29T16:51:59.809Z'
+sourcePath: _posts/2016-07-29-hello-i-do-hair.md
 author: []
 via: {}
-dateModified: '2016-07-29T16:36:09.127Z'
+dateModified: '2016-07-29T16:51:59.301Z'
 title: 'HELLO, I DO HAIR.'
 publisher: {}
-description: 'Changing lives, one curl at a time.'
+description: ''
 starred: false
-sourcePath: _posts/2016-07-29-hello-i-do-hair.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -18,5 +18,5 @@ _type: Article
 ---
 # HELLO, I DO HAIR.
 
-Changing lives, one curl at a time.
+## Changing lives, one curl at a time.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb055897-ef3f-403f-9cc0-8691d8801383.gif)
