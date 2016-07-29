@@ -4,7 +4,7 @@
         <description><![CDATA[Curl Queen]]></description>
         <link>http://curlqueen.salon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 19:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 20:05:42 GMT</lastBuildDate>
         <atom:link href="http://curlqueen.salon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a11701e-ac4f-4454-b350-15a017d7af66.jpg</link>
             <guid isPermaLink="false">f2e125ea-a95c-44a9-9a44-f49cfbfc8dba</guid>
             <pubDate>Fri, 29 Jul 2016 16:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<article><h1>Portfolio</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26744e21-7869-4deb-937d-a3c6abc02446.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5135eecc-6dbe-408f-b5dc-908f16b06cb2.jpg</link>
+            <guid isPermaLink="false">ff2ce318-7647-400e-99c7-ab78b7bfa359</guid>
+            <pubDate>Fri, 29 Jul 2016 20:05:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HELLO, I DO HAIR.]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=7T-PldwnFco</link>
             <guid isPermaLink="false">e62306f9-37f5-42b5-b8a8-ccfc0a6d0048</guid>
             <pubDate>Thu, 28 Jul 2016 04:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevaCurl: Learn the Looks - The Romantic]]></title>
-            <description><![CDATA[<article><h1>DevaCurl: Learn the Looks - The Romantic</h1><p>DevaCurl Presents: Learn The looks - The Romantic Everyday, touchable soft curls. More Looks? Learn More: http://www.devacurl.com/deva-looks.html How To's, Tips and Tutorials for Girls with Curls.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d54b8133516810c390bffca578ac80c0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fs1O7aD-j3d0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=s1O7aD-j3d0</link>
-            <guid isPermaLink="false">ee3fb227-3404-4e98-bd00-0c03f2fe50be</guid>
-            <pubDate>Wed, 27 Jul 2016 23:07:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
