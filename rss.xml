@@ -4,7 +4,7 @@
         <description><![CDATA[Curl Queen]]></description>
         <link>http://curlqueen.salon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 16:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 16:36:24 GMT</lastBuildDate>
         <atom:link href="http://curlqueen.salon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a11701e-ac4f-4454-b350-15a017d7af66.jpg</link>
             <guid isPermaLink="false">f2e125ea-a95c-44a9-9a44-f49cfbfc8dba</guid>
             <pubDate>Fri, 29 Jul 2016 16:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HELLO, I DO HAIR.]]></title>
+            <description><![CDATA[<article><h1>HELLO, I DO HAIR.</h1><p>Changing lives, one curl at a time.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb055897-ef3f-403f-9cc0-8691d8801383.gif"></article>]]></description>
+            <link>http://curlqueen.salon/hello-i-do-hair/index.html</link>
+            <guid isPermaLink="false">8a57fb93-8866-4d7f-bc2f-71e622592027</guid>
+            <pubDate>Fri, 29 Jul 2016 16:36:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
