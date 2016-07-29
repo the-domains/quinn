@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-29T19:54:12.245Z'
+datePublished: '2016-07-29T21:14:34.576Z'
 sourcePath: _posts/2016-07-29-hello-i-do-hair.md
 author: []
 via: {}
-dateModified: '2016-07-29T19:52:45.609Z'
+dateModified: '2016-07-29T21:14:34.138Z'
 title: 'HELLO, I DO HAIR.'
 publisher: {}
-description: 'Hey, curly girl! I am so excited that you have found your way here!'
+description: ''
 starred: false
 inFeed: true
 hasPage: true
@@ -19,6 +19,4 @@ _type: Article
 # HELLO, I DO HAIR.
 
 ## Changing lives, one curl at a time.
-
-**Hey, curly girl! I am so excited that you have found your way here!**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb055897-ef3f-403f-9cc0-8691d8801383.gif)
