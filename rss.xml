@@ -4,7 +4,7 @@
         <description><![CDATA[Curl Queen]]></description>
         <link>http://curlqueen.salon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 00:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 00:01:38 GMT</lastBuildDate>
         <atom:link href="http://curlqueen.salon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HELLO, I DO HAIR.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/29cea911-b229-4b0a-83b7-a9357700d7f0.jpg</link>
             <guid isPermaLink="false">c92b030c-2d8b-451c-8214-0d115bfb02ac</guid>
             <pubDate>Thu, 28 Jul 2016 05:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41168eb9-7145-4458-a3b6-a02a165986ee.jpg">]]></description>
+            <link>http://curlqueen.salon/78db20b1-7b01-48ca-a8a3-318f6ef52862/index.html</link>
+            <guid isPermaLink="false">78db20b1-7b01-48ca-a8a3-318f6ef52862</guid>
+            <pubDate>Fri, 29 Jul 2016 00:01:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +54,6 @@
             <link>https://www.youtube.com/watch?v=s1O7aD-j3d0</link>
             <guid isPermaLink="false">ee3fb227-3404-4e98-bd00-0c03f2fe50be</guid>
             <pubDate>Wed, 27 Jul 2016 23:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portfolio]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41168eb9-7145-4458-a3b6-a02a165986ee.jpg">]]></description>
-            <link>http://curlqueen.salon/78db20b1-7b01-48ca-a8a3-318f6ef52862/index.html</link>
-            <guid isPermaLink="false">78db20b1-7b01-48ca-a8a3-318f6ef52862</guid>
-            <pubDate>Wed, 27 Jul 2016 21:46:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
