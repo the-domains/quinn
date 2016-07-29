@@ -1,23 +1,27 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-29T21:18:25.350Z'
-dateModified: '2016-07-29T21:16:41.917Z'
+datePublished: '2016-07-29T21:45:35.529Z'
 sourcePath: _posts/2016-07-29-wtf-is-no-poo.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - {}
 via: {}
+dateModified: '2016-07-29T21:45:07.382Z'
 title: WTF is No-Poo?
-authors: []
 publisher:
   name: Quinn Bishop
   domain: null
   url: null
   favicon: null
+description: >-
+  For years curly and straight haired women alike have talked about some cult
+  movement to “quit shampoo.” At first it sounds like some weird
+  hippie-coachella fad. But apparently there is science behind this. They say
+  that ditching suds can actually do wonders for your hair and scalp.
+inLanguage: null
+inNav: false
 starred: false
 url: wtf-is-no-poo/index.html
 _type: Article
@@ -27,7 +31,7 @@ _type: Article
 
 # **WTF is No-Poo?**
 
-For years curly and straight haired women alike have talked about some cult movement to "quit shampoo." At first it sounds like some weird hippie-coachella fad. But apparently there is science behind this. They say that ditching suds can actually do wonders for your hair and scalp -- but TBH it all sounds kind of disgusting. Why on earth would you not wash your hair? Wouldn't it start to smell?
+For years curly and straight haired women alike have talked about some cult movement to "quit shampoo." At first it sounds like some weird hippie-coachella fad. But apparently there is science behind this. They say that ditching suds can actually do wonders for your hair and scalp.
 
 The answer is a resounding yes if you opt for the DIY route (aka crafting a rinse of either Apple Cider Vinegar, Baking Soda, or both).
 
