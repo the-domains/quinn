@@ -4,7 +4,7 @@
         <description><![CDATA[Curl Queen]]></description>
         <link>http://curlqueen.salon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 05:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 00:01:19 GMT</lastBuildDate>
         <atom:link href="http://curlqueen.salon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HELLO, I DO HAIR.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/29cea911-b229-4b0a-83b7-a9357700d7f0.jpg</link>
             <guid isPermaLink="false">c92b030c-2d8b-451c-8214-0d115bfb02ac</guid>
             <pubDate>Thu, 28 Jul 2016 05:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a442fea5-f07d-40e9-971e-97b0d49b1f93.jpg">]]></description>
+            <link>http://curlqueen.salon/66e2333f-2ba5-4c5c-b2a9-c93037294524/index.html</link>
+            <guid isPermaLink="false">66e2333f-2ba5-4c5c-b2a9-c93037294524</guid>
+            <pubDate>Fri, 29 Jul 2016 00:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +68,6 @@
             <link>http://curlqueen.salon/b8720b44-50ed-4cae-befc-d4d946cff94f/index.html</link>
             <guid isPermaLink="false">b8720b44-50ed-4cae-befc-d4d946cff94f</guid>
             <pubDate>Wed, 27 Jul 2016 21:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a442fea5-f07d-40e9-971e-97b0d49b1f93.jpg">]]></description>
-            <link>http://curlqueen.salon/66e2333f-2ba5-4c5c-b2a9-c93037294524/index.html</link>
-            <guid isPermaLink="false">66e2333f-2ba5-4c5c-b2a9-c93037294524</guid>
-            <pubDate>Wed, 27 Jul 2016 20:59:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
