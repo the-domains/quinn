@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T21:18:07.592Z'
+datePublished: '2016-07-29T21:52:39.709Z'
 sourcePath: _posts/2016-07-27-5-curl-tips-you-need-to-know.md
 inFeed: true
 authors: []
@@ -7,10 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-29T21:14:22.125Z'
+dateModified: '2016-07-29T21:52:39.234Z'
 title: 5 Curl Tips You need to Know
 publisher: {}
-description: ''
+description: >-
+  Chances are if you’re reading this, you’ve got curly hair and you know how to
+  navigate the internet. Congratulations.
 inLanguage: null
 inNav: false
 starred: false
@@ -19,7 +21,7 @@ _type: Article
 
 ---
 # **5 Curl Tips You need to Know**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/937b18ba-a9f3-43d3-acb7-f2db17ca2679.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72d727df79a4b7b1163eca3d0e9ea9fb/croprotate.jpg?cropheight=2999&cropwidth=3349&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F937b18ba-a9f3-43d3-acb7-f2db17ca2679.jpg&x=0&y=0)
 
 Chances are if you're reading this, you've got curly hair and you know how to navigate the internet. Congratulations.
 
