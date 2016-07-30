@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-29T00:12:13.958Z'
+datePublished: '2016-07-30T00:28:08.640Z'
 sourcePath: _posts/2016-07-27-about-quinn.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-29T00:12:13.209Z'
+dateModified: '2016-07-30T00:28:07.674Z'
 title: About Quinn
 publisher: {}
 description: ''
