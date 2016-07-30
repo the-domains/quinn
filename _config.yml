@@ -35,6 +35,9 @@ navigation:
   - name: Follow Me on Instagram
     url: 'https://www.instagram.com/curl_whisperer/'
     type: external
+  - name: About Quinn
+    id: 8bb6d240-ebb8-4213-9fe2-75238b8b6449
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d5f55cf-83f3-4a49-89f8-960483c284df.png
 title: Curl Queen
