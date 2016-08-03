@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T21:45:35.529Z'
+datePublished: '2016-08-03T18:00:15.293Z'
 sourcePath: _posts/2016-07-29-wtf-is-no-poo.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - {}
 via: {}
-dateModified: '2016-07-29T21:45:07.382Z'
+dateModified: '2016-08-03T18:00:14.755Z'
 title: WTF is No-Poo?
 publisher:
   name: Quinn Bishop
@@ -27,7 +27,7 @@ url: wtf-is-no-poo/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a54d2c7ed0a562ea4c48679364d3bce/croprotate.jpg?cropheight=3484&cropwidth=3744&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa963dfcb-826c-454d-8c79-9f8153385031.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/655df0ea-de0d-4c79-b674-c00f3ef3a919.jpg)
 
 # **WTF is No-Poo?**
 
